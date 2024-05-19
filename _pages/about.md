@@ -17,9 +17,9 @@ My research includes VR/AR, Camera Localization, SLAM, Object Pose Estimation an
 2018-2023, Beihang University,   Computer Application Technology, PhD.  
 
 ## Work Eexperiences
-2016.04 - 2017.06 Development Engineer at CETC 41.
-2017.07 - 2018.08 Algorithm Engineer at Qingdao Research Institution of Beihang University.
-2023-Now, Assistant Professor at School of Computer Science and Technology, Shandong University.
+2016.04 - 2017.06, Development Engineer at CETC 41.  
+2017.07 - 2018.08, Algorithm Engineer at Qingdao Research Institution of Beihang University.  
+2023.12 - Now,     Assistant Professor at School of Computer Science and Technology, Shandong University.  
 
 ## Research Field
 VR/AR, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.  
