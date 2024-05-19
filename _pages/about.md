@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-A computer science PHD student at BeiHang University.  
+Assistant Professor at School of Computer Science and Technology, Shandong University.  
 My research includes VR/AR, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.  
 
 ## Education Experiences
