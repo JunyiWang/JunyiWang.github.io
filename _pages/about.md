@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Junyi Wang Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
 A computer science PHD student at BeiHang University.  
 My research includes VR/AR, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.  
