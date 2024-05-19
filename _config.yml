@@ -12,7 +12,7 @@ title                    : "Junyi Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Junyi Wang"
 description              : &description "personal description"
-url                      : https://junyiwang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://junyiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunyiWang/JunyiWang.github.io"
 
