@@ -28,7 +28,7 @@ VR/AR, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.
 
 - **2025**
 
-**Junyi Wang**, Yue Qi, Camera Relocalization using Deep Point Cloud Generation and Hand-crafted Feature Refinement, 2021 IEEE International Conference on Robotics and Automation (ICRA), May 30 - June 5, 2021：5891-5897，Xian， China
+$~~~$ **Junyi Wang**, Yue Qi, Camera Relocalization using Deep Point Cloud Generation and Hand-crafted Feature Refinement, 2021 IEEE International Conference on Robotics and Automation (ICRA), May 30 - June 5, 2021：5891-5897，Xian， China
 
 **Junyi Wang**, Yue Qi, Simultaneous Scene-independent Camera Localization and Category-level Object Pose Estimation via Multi-level Feature Fusion, 2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR). IEEE, 2023: 254-264.
 
