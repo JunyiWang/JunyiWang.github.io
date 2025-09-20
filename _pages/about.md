@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me (junyiwang@sdu.edu.cn)
 Assistant Professor at School of Computer Science and Technology, Shandong University.  
-My research includes VR/AR, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.  
+My research includes VR/AR, Video Generation, Camera Localization, SLAM, Object Pose Estimation and 3D Reconstruction.  
 
 ## Education Experiences
 2009-2013, Chongqing University, Mathematics and Applied Mathematics, Bachelor.  
@@ -32,7 +32,7 @@ VR/AR, Video Generation, Camera Localization, SLAM, Object Pose Estimation and 3
 
 **Junyi Wang**, Yuze Wang, Wantong Duan, Meng Wang, Yue Qi, 3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion, 2025 **NeurIPS 2025 Conference (CCF A)** (Accepted). 
 
-Shuo Yang， **Junyi Wang$^*$**, Yue Qi, Multi-mode Bidirectional Feature Fusion and Domain-consistency Refinement for Real-time Monocular 6D Object Pose Estimation, 2025 **ICME (CCF B)** (Accepted). 
+Shuo Yang， **Junyi Wang<sup>*</sup>**, Yue Qi, Multi-mode Bidirectional Feature Fusion and Domain-consistency Refinement for Real-time Monocular 6D Object Pose Estimation, 2025 **ICME (CCF B)** (Accepted). 
 
 - **2024**
 
