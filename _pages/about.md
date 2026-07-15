@@ -26,13 +26,24 @@ VR/AR, Video Generation, Camera Localization, SLAM, Object Pose Estimation and 3
 
 ## Selected Publications
 
+- **2026**
+
+**Junyi Wang**, Zhikun Hu, Xiang Lei, Tian Gan, Yanwei Zheng, Similarity-Driven Retrieve-and-Refine Category-Level 6D Object Pose Estimation via Geometry-Language Retrieval using Bidirectional Feature Fusion, 2026 **ACM MM Conference (CCF A)**, Accepted.
+
+Enzhen Liu, Zhikun Hu, Xiang Lei, Wenhong Duan, Yutong Qi, Minghuan Liu, **Junyi Wang***, Tian Gan, Render-to-Optimize: Scene Coordinate Regression with Differentiable Gaussian Splatting for Camera Relocalization, 2026 **ACM MM Conference (CCF A)**, Accepted.
+
+Junhao Wei, Zhikun Hu, Xiang Lei, Wenhong Duan, **Junyi Wang***, Tian Gan, Xiuzhen Cheng, One-to-All Relocalization: Feature-Anchored Scene-Independent Camera Relocalization via Salient Sampling and Regression of Feature Gaussians, 2026 **ACM MM Conference (CCF A)**, Accepted. 
+
+**Junyi Wang**, Yuze Wang, Chen Wang, Yue Qi, Visual Camera Localization by Globally Consistent Descriptor Learning and Combined Bundle Adjustment, 2026, **IEEE Transactions on Image Processing (CCF A)**. 
+
+
 - **2025**
 
-**Junyi Wang**, Yue Qi, Visual Localization using Hybrid Feature Grid and Learned Weighted Global Point Cloud, 2025 **ACM MM Conference (CCF A)** (Accepted). 
+**Junyi Wang**, Yue Qi, Visual Localization using Hybrid Feature Grid and Learned Weighted Global Point Cloud, 2025 **ACM MM Conference (CCF A)**. 
 
-**Junyi Wang**, Yuze Wang, Wantong Duan, Meng Wang, Yue Qi, 3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion, 2025 **NeurIPS 2025 Conference (CCF A)** (Accepted). 
+**Junyi Wang**, Yuze Wang, Wantong Duan, Meng Wang, Yue Qi, 3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion, 2025 **NeurIPS 2025 Conference (CCF A)**. 
 
-Shuo Yang， **Junyi Wang<sup>*</sup>**, Yue Qi, Multi-mode Bidirectional Feature Fusion and Domain-consistency Refinement for Real-time Monocular 6D Object Pose Estimation, 2025 **ICME (CCF B)** (Accepted). 
+Shuo Yang， **Junyi Wang<sup>*</sup>**, Yue Qi, Multi-mode Bidirectional Feature Fusion and Domain-consistency Refinement for Real-time Monocular 6D Object Pose Estimation, 2025 **ICME (CCF B)**. 
 
 - **2024**
 
