@@ -30,9 +30,9 @@ VR/AR, Video Generation, Camera Localization, SLAM, Object Pose Estimation and 3
 
 **Junyi Wang**, Zhikun Hu, Xiang Lei, Tian Gan, Yanwei Zheng, Similarity-Driven Retrieve-and-Refine Category-Level 6D Object Pose Estimation via Geometry-Language Retrieval using Bidirectional Feature Fusion, 2026 **ACM MM Conference (CCF A)**, Accepted.
 
-Enzhen Liu, Zhikun Hu, Xiang Lei, Wenhong Duan, Yutong Qi, Minghuan Liu, **Junyi Wang***, Tian Gan, Render-to-Optimize: Scene Coordinate Regression with Differentiable Gaussian Splatting for Camera Relocalization, 2026 **ACM MM Conference (CCF A)**, Accepted.
+Enzhen Liu, Zhikun Hu, Xiang Lei, Wenhong Duan, Yutong Qi, Minghuan Liu, **Junyi Wang<sup>*</sup>**, Tian Gan, Render-to-Optimize: Scene Coordinate Regression with Differentiable Gaussian Splatting for Camera Relocalization, 2026 **ACM MM Conference (CCF A)**, Accepted.
 
-Junhao Wei, Zhikun Hu, Xiang Lei, Wenhong Duan, **Junyi Wang***, Tian Gan, Xiuzhen Cheng, One-to-All Relocalization: Feature-Anchored Scene-Independent Camera Relocalization via Salient Sampling and Regression of Feature Gaussians, 2026 **ACM MM Conference (CCF A)**, Accepted. 
+Junhao Wei, Zhikun Hu, Xiang Lei, Wenhong Duan, **Junyi Wang<sup>*</sup>**, Tian Gan, Xiuzhen Cheng, One-to-All Relocalization: Feature-Anchored Scene-Independent Camera Relocalization via Salient Sampling and Regression of Feature Gaussians, 2026 **ACM MM Conference (CCF A)**, Accepted. 
 
 **Junyi Wang**, Yuze Wang, Chen Wang, Yue Qi, Visual Camera Localization by Globally Consistent Descriptor Learning and Combined Bundle Adjustment, 2026, **IEEE Transactions on Image Processing (CCF A)**. 
 
