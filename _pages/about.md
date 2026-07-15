@@ -36,6 +36,10 @@ Junhao Wei, Zhikun Hu, Xiang Lei, Wenhong Duan, **Junyi Wang<sup>*</sup>**, Tian
 
 **Junyi Wang**, Yuze Wang, Chen Wang, Yue Qi, Visual Camera Localization by Globally Consistent Descriptor Learning and Combined Bundle Adjustment, 2026, **IEEE Transactions on Image Processing (CCF A)**. 
 
+**Junyi Wang**, Yuze Wang, Wantong Duan, Meng Wang, Yue Qi, GSBrief: A Globally Consistent Descriptor with 3D Gaussian Splatting for
+Visual Localization, 2026, **IEEE Virtual Reality (CCF A)**. 
+
+Wenhong Duan, Junqi Wu, Hui Yuan, **Junyi Wang<sup>*</sup>**, Siwei Ma, An Information-guided Learned Framework for Free-view Image Coding, **Data Compression Conference 2026 (CCF B)**.
 
 - **2025**
 
